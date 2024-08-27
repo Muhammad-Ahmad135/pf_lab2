@@ -1,3 +1,4 @@
-# a first level heading
-## a second level heading
-### a third level heading
+# INTRODUCTION TO GITHUB
+**BOLD**
+***BOLD AND ITALIC***
+<sup>SUPERSCRIPT</sup>
